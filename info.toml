@@ -1,0 +1,9 @@
+[meta]
+name = "Mood Switcher"
+author = "Greep"
+category = "Editor"
+
+version = "1.0"
+
+[script]
+timeout = 0
